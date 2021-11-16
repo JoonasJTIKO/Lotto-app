@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"fi.tuni.tamk.tiko.jarvinenjoonas.util","l":"Arrays"},{"p":"fi.tuni.tamk.tiko.jarvinenjoonas","l":"Lotto"},{"p":"fi.tuni.tamk.tiko.jarvinenjoonas","l":"Main"},{"p":"fi.tuni.tamk.tiko.jarvinenjoonas.util","l":"Math"},{"p":"fi.tuni.tamk.tiko.jarvinenjoonas.util","l":"MyConsole"}];updateSearchResults();
